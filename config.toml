@@ -1,5 +1,5 @@
 title = "Fujimori website"
-baseURL = "https://fujimorishintaro-eca53.web.app"
+baseURL = "https://shintarofujimori-c4b80.web.app"
 languageCode = "ja"
 theme = "ananke"
 themesDir = "../fujimorishintaro/themes"
