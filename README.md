@@ -1,2 +1,2 @@
 # fujimorishintaro
-Fujimori Shintaro's website
+Shintaro Fujimori's website

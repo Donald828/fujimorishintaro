@@ -1,5 +1,5 @@
 ---
-title: "Fujimori Shintaro"
+title: "Shintaro Fujimori"
 featured_image: '/images/oze.jpg'
 description: "コーヒーを愛し、コーヒーに愛された男"
 ---
