@@ -2,3 +2,7 @@
 .w-two-thirds-l{
     width: 90%;
   }
+  /* フォント変更 */
+.serif {
+  font-family: "Hiragino Sans", "Helvetica Neue", "游ゴシック", "Arial", sans-serif;
+}
