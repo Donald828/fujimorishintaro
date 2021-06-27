@@ -2,7 +2,7 @@
 title: "3rd study session"
 date: 2021-05-07T15:33:16+09:00
 featured_image: "/images/3rdstudygroup.jpg"
-
+omit_header_text: true
 ---
 
 Thanks to the friends who participated, the third installment was very exciting and ended successfully.
