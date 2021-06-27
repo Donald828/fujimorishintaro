@@ -1,0 +1,25 @@
+---
+title: "Emerging countries to digitize"
+date: 2021-05-07T15:33:16+09:00
+#featured_image: "/images/3rdstudygroup.jpg"
+
+---
+
+This book is developed based on the idea that "social change by digital technology may amplify the possibilities and vulnerabilities of emerging and developing countries, respectively."
+The trend of "digitalization" is that smartphones are becoming widespread in emerging countries and the social implementation of digital technology is advancing. He argues that the resulting social change will not occur uniformly throughout the world, and that both potential and vulnerabilities will become more apparent in emerging countries than in developed countries.
+<!--more-->
+First, we will discuss the possibilities of digital emerging countries.
+In India, a system called Aadhaar has been put in place to centrally manage individual resident cards, bank accounts, tax returns, driver's licenses and mobile phone numbers. In India before the introduction of UIDAI, there was no way to verify the identity and many people did not have a bank account, so withdrawal of cash benefits became a social problem. Under such circumstances, even if there are hurdles in introducing new technology, it is easy for the people to foster consensus on the introduction of new technology and new systems. In emerging countries, there is no investment in the infrastructure of the previous generation and the social issues they face are serious, so expectations for next-generation technologies are rather high, and it can be said that investment is progressing all at once.
+In addition, the location information of Indian three-wheeled motorbike taxis is linked with Uber, and it is possible to make cashless payments. In order to launch such a service, it is essential to understand the needs of local users and the three-wheeled motorbike driver industry. In developing services in emerging markets with abundant populations, local companies in emerging countries that have access to information that is difficult for outsiders to understand have an advantage. In digital services, services that can retain a large number of users are characterized by being able to provide high-quality services at lower prices, so easy access to populous emerging markets is a big advantage. It can be said that.
+On the other hand, in emerging digital countries where social order is underdeveloped and the introduction of digital technology is rapidly advancing, social vulnerabilities may become apparent.
+By capturing and analyzing personal behavior data, it is possible to provide convenient services at low prices, while advances in technology have advanced architectural regulations, and the government and platform can and cannot do what users can and cannot do. The movement to be clearly separated by the former is accelerating.
+In China, surveillance cameras are used for surveillance and speech is censored on SNS services. In addition, the personal credit score calculated based on various payment histories, academic background, online friendship, etc. is used for weighting the amount of personal borrowing, but the personal behavior data is unlimited and unconscious. There is no denying the aspect that it is sucked up by us and the freedom of individuals is restricted.
+In addition, fake news is widespread, and the division of society is sharpening. In the Indonesian presidential election held in 2019, both camps actively disseminated information on social media. There was sensational and non-factual information about both candidates on social media, which is believed to have influenced the outcome of the election. In an advanced digital society, sensational speech is likely to gain support, and it can be said that this is an example of sharpening the division of society.
+It is suggestive that the possibilities and vulnerabilities of society when implementing the above-mentioned digital technologies that have become apparent in emerging countries are not necessarily unique to emerging countries and can be experienced by Japanese society as well. is there.
+Then, what kind of efforts are required of the Japanese government in the trend of digitalization in emerging countries?
+With the goal of answering this question, I will present a question that has been divided into several issues, and this time I will end it. I will continue to think about these points.
+・ If local needs are unclear (especially, values ​​other than price are often unclear), how can we create them to absorb those needs?
+・ How should we support Japanese companies when there is a gap between the technology that Japanese companies have strengths and local needs?
+・ How to develop human resources who have the will and ability to solve problems
+・ How can we absorb the local needs of emerging countries and appropriately convey them to those who have the will and ability to solve problems?
+・ How can we visualize the digitalization possibilities and risks that emerging countries are experiencing (awareness of issues that can be utilized in updating Japanese society from the experiences of emerging countries)?

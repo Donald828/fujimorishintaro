@@ -16,10 +16,10 @@ enableRobotsTXT = true
     title = "Fujimori website"
     weight = 1
     contentDir = "content/ja"
-  # [languages.fr]
-  #   title = "Mon blogue"
-  #   weight = 2
-  #   contentDir = "content/fr"
+  [languages.en]
+    title = "Fujimori website"
+    weight = 2
+    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
