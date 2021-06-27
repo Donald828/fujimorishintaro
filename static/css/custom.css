@@ -1,8 +1,13 @@
-/* 各記事の表示幅を広げるため設定値を上書き */
+/* 各記事の表示幅を広げるため設定値を上書き #14 */
 .w-two-thirds-l{
     width: 90%;
   }
-  /* フォント変更 */
+/* 記事のフォント変更 #19 */
 .serif {
   font-family: "Hiragino Sans", "Helvetica Neue", "游ゴシック", "Arial", sans-serif;
+}
+/* トップページの注意書きの箇所書き換え #23 */
+.f4 {
+  font-size: 15px;
+  box-sizing: content-box;
 }
